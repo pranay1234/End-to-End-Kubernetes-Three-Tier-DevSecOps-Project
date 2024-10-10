@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: prwork.cloud
+    - host: test3.prwork.cloud
       http:
         paths:
           - path: /api
